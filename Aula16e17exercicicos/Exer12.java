@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.loiane.cursojava.aula16e17;
+package com.loiane.cursojava.AulasLoiane.ExerciciosLoiane.Aula16e17exercicicos;
 
 import java.util.Scanner;
 
@@ -11,6 +11,8 @@ import java.util.Scanner;
  *
  * @author Junior Ribeiro
  */
+
+//Criando uma Tabuada;
 public class Exer12 {
     public static void main(String[] args) {
         
