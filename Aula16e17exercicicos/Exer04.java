@@ -1,0 +1,32 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.loiane.cursojava.aula16e17;
+
+/**
+ *
+ * @author Junior Ribeiro
+ */
+public class Exer04 {
+    public static void main(String[] args) {
+        
+        int populacaoA = 80000;
+        int populacaoB = 200000;
+        int contador = 0;
+        
+        while (populacaoA < populacaoB){
+            
+            populacaoA += (populacaoA/100) * 3;
+            populacaoB += (populacaoB/100) * 1.5;
+            contador++;
+        }
+        
+        System.out.println("População A:  " + populacaoA);
+        System.out.println("População B:  " + populacaoB);
+        System.out.println("Quantidade de anos:   " + contador);
+        
+        
+    }
+}
