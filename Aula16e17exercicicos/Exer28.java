@@ -11,12 +11,13 @@ import java.util.Scanner;
  *
  * @author Junior Ribeiro
  */
-public class Exer18 {
-    public static void main(String[] args) {
-        
+public class Exer28 {
     
-     Scanner scan = new Scanner(System.in);
-       
+    public static void main(String[] args) {
+    
+    Scanner scan = new Scanner(System.in);
+        
+
         System.out.println("Digite um numero: ");
         int num = scan.nextInt();
     
@@ -31,5 +32,6 @@ public class Exer18 {
         if (primo){
             System.out.println("É Primo!");
         }
-    }
+    
+}
 }
