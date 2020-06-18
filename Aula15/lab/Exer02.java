@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.loiane.cursojava.aula15.lab;
+package com.loiane.cursojava.AulasLoiane.ExerciciosLoiane.Aula15.lab;
 
 import java.util.Scanner;
 
