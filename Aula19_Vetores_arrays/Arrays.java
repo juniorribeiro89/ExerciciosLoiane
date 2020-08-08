@@ -25,7 +25,7 @@ public class Arrays {
     temperaturas[3] = 34;
     temperaturas[4] = 33.1;
     
-        for (int i = 0; i<temperaturas.length; i++){ // Esse tipo de for permite ver o indice;
+        for (int i = 0; i<temperaturas.length; i++){     // Esse tipo de for permite ver o indice;
             System.out.println("O valor da temperatura do dia " +(i+1)+ " é: " + temperaturas[i]);
         }
         
